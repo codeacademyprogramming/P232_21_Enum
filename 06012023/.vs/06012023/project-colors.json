@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "658705cd-3264-4600-989e-792d8614212d": {
+      "ProjectGuid": "658705cd-3264-4600-989e-792d8614212d",
+      "DisplayName": "FarmProject",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0372055f-21c7-4bbf-82dc-3e728a95e594": {
+      "ProjectGuid": "0372055f-21c7-4bbf-82dc-3e728a95e594",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "96ae51b8-34b1-4adf-bf0c-2682aa047e4d": {
+      "ProjectGuid": "96ae51b8-34b1-4adf-bf0c-2682aa047e4d",
+      "DisplayName": "GroupTask",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

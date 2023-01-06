@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\bin\Debug\netcoreapp3.1\FarmProject.exe
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\bin\Debug\netcoreapp3.1\FarmProject.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\bin\Debug\netcoreapp3.1\FarmProject.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\bin\Debug\netcoreapp3.1\FarmProject.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\bin\Debug\netcoreapp3.1\FarmProject.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\bin\Debug\netcoreapp3.1\FarmProject.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\FarmProject\obj\Debug\netcoreapp3.1\FarmProject.genruntimeconfig.cache

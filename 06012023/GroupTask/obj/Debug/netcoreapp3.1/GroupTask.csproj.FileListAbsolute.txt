@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\bin\Debug\netcoreapp3.1\GroupTask.exe
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\bin\Debug\netcoreapp3.1\GroupTask.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\bin\Debug\netcoreapp3.1\GroupTask.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\bin\Debug\netcoreapp3.1\GroupTask.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\bin\Debug\netcoreapp3.1\GroupTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\bin\Debug\netcoreapp3.1\GroupTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\21. C# -\06012023\GroupTask\obj\Debug\netcoreapp3.1\GroupTask.genruntimeconfig.cache
