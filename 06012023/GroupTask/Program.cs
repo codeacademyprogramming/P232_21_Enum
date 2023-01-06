@@ -11,7 +11,7 @@ namespace GroupTask
             string opt;
             do
             {
-                Console.WriteLine("1. Group yarat");
+                Console.WriteLine("1. Group yaratmaq");
                 Console.WriteLine("2. Qruplara bax");
                 Console.WriteLine("3. Type-a gore qruplara bax");
                 Console.WriteLine("0. Cixis");

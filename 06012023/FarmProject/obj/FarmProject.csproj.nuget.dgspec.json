@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\FarmProject\\FarmProject.csproj": {}
+    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\FarmProject\\FarmProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\FarmProject\\FarmProject.csproj": {
+    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\FarmProject\\FarmProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\FarmProject\\FarmProject.csproj",
+        "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\FarmProject\\FarmProject.csproj",
         "projectName": "FarmProject",
-        "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\FarmProject\\FarmProject.csproj",
+        "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\FarmProject\\FarmProject.csproj",
         "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\FarmProject\\obj\\",
+        "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\FarmProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",

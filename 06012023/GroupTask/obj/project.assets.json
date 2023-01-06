@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\GroupTask\\GroupTask.csproj",
+      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\GroupTask\\GroupTask.csproj",
       "projectName": "GroupTask",
-      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\GroupTask\\GroupTask.csproj",
+      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\GroupTask\\GroupTask.csproj",
       "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\06012023\\GroupTask\\obj\\",
+      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\21. C# -\\P232_21_Enum\\06012023\\GroupTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",
